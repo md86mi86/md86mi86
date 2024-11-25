@@ -1,16 +1,24 @@
 ## Hi there 👋
+<p>Hello <br> My name is Mohammad Maleki</p>
 
-<!--
-**MD86MI/MD86MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## my skills
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,cs,git" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contact me
+
+<a href="mailto:mohammad2007maleki@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="">
+</a>
+
+<a href="https://instagram.com/md86mi">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="">
+</a>
+
+<a href="https://linkedin.com/in/md86mi">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="">
+</a>
