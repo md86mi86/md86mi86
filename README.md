@@ -15,10 +15,10 @@
         <img src="https://skillicons.dev/icons?i=gmail" alt="">
 </a>
 
-<a href="https://instagram.com/md86mi">
+<a href="https://instagram.com/md86mi86">
         <img src="https://skillicons.dev/icons?i=instagram" alt="">
 </a>
 
-<a href="https://linkedin.com/in/md86mi">
+<a href="https://linkedin.com/in/md86mi86">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="">
 </a>
