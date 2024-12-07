@@ -22,3 +22,7 @@
 <a href="https://linkedin.com/in/md86mi86">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="">
 </a>
+
+# most used language
+
+![top languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=md86mi86&layout=pie&theme=dark)
