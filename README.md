@@ -25,4 +25,6 @@
 
 # most used language
 
-![top languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=md86mi86&layout=pie&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md86mi86&layout=pie&theme=dark">
+</p>
