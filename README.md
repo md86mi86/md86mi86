@@ -30,8 +30,14 @@
 </p>
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md86mi86&show_icons=true&theme=radical&include_all_commits=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md86mi86&show_icons=true&theme=radical&include_all_commits=true">
+</p>
 
 
 # Visitors
-![Visitors](https://count.getloli.com/get/@md86mi86github.readme)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@md86mi86github.readme">
+</p>
