@@ -30,7 +30,7 @@
 # most used language
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md86mi86&layout=pie&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md86mi86&layout=pie&theme=dark&cache_seconds=7200">
 </p>
 
 # GitHub Stats
