@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.gif" height="250" />
+</p>
+
 <h1 align="center">Hi, I'm Mohammad Maleki 👋</h1>
 
 <p align="center">
